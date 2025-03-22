@@ -1,0 +1,51 @@
+Customer_ID,Purchase_Amount,Product_Category,Quantity,Purchase_Date,Customer_Age,Gender,City
+1001,811.63,Clothing,3,2024-01-28,34,Male,Los Angeles
+1002,1906.36,Clothing,2,2024-01-28,19,Male,San Francisco
+1003,1490.79,Home Decor,3,2024-02-13,19,Other,New York
+1004,1237.45,Clothing,1,2024-02-13,45,Female,Houston
+1005,396.44,Clothing,1,2024-01-20,40,Male,New York
+1006,396.39,Home Decor,2,2024-01-30,54,Female,San Francisco
+1007,210.36,Home Decor,3,2024-01-11,49,Female,Houston
+1008,1745.73,Electronics,3,2024-02-27,50,Female,San Francisco
+1009,1242.12,Books,2,2024-02-24,18,Female,Chicago
+1010,1445.34,Books,3,2024-01-28,36,Male,Houston
+1011,139.11,Clothing,3,2024-01-25,19,Male,Chicago
+1012,1942.83,Books,1,2024-02-08,61,Female,New York
+1013,1681.64,Clothing,3,2024-02-02,43,Other,New York
+1014,503.44,Electronics,3,2024-01-01,49,Female,Houston
+1015,445.47,Home Decor,2,2024-02-26,23,Male,Houston
+1016,448.47,Home Decor,2,2024-01-27,49,Male,San Francisco
+1017,678.06,Home Decor,4,2024-02-26,21,Female,San Francisco
+1018,1097.04,Books,1,2024-02-21,28,Female,Chicago
+1019,920.7,Electronics,3,2024-01-13,34,Female,Houston
+1020,653.34,Books,3,2024-02-10,55,Female,New York
+1021,1262.52,Books,4,2024-01-03,41,Female,San Francisco
+1022,365.04,Electronics,3,2024-02-08,22,Male,San Francisco
+1023,655.07,Electronics,1,2024-01-06,51,Male,New York
+1024,796.09,Electronics,4,2024-01-08,23,Female,San Francisco
+1025,966.53,Electronics,1,2024-01-27,39,Female,Chicago
+1026,1591.83,Home Decor,4,2024-01-09,28,Male,Houston
+1027,479.38,Groceries,4,2024-02-06,33,Male,New York
+1028,1077.05,Groceries,2,2024-02-02,50,Female,Houston
+1029,1225.59,Electronics,1,2024-02-20,26,Male,San Francisco
+1030,188.26,Groceries,3,2024-02-11,23,Male,San Francisco
+1031,1254.34,Groceries,3,2024-02-13,33,Female,New York
+1032,424.0,Electronics,1,2024-01-24,46,Female,Chicago
+1033,223.6,Groceries,3,2024-01-15,20,Female,Los Angeles
+1034,1902.88,Books,3,2024-02-28,37,Male,New York
+1035,1934.7,Clothing,1,2024-02-23,53,Female,Los Angeles
+1036,1635.95,Clothing,4,2024-02-01,36,Male,Los Angeles
+1037,678.77,Electronics,1,2024-02-01,43,Male,Chicago
+1038,285.58,Home Decor,4,2024-01-24,20,Female,Los Angeles
+1039,1400.04,Electronics,3,2024-02-10,36,Female,Los Angeles
+1040,936.29,Home Decor,3,2024-02-21,37,Female,Chicago
+1041,331.87,Clothing,3,2024-02-18,49,Female,Los Angeles
+1042,1040.84,Electronics,2,2024-02-18,24,Female,Los Angeles
+1043,165.34,Books,4,2024-02-27,58,Male,Los Angeles
+1044,1827.71,Groceries,2,2024-02-21,50,Male,New York
+1045,591.68,Home Decor,2,2024-01-12,57,Male,New York
+1046,1358.79,Groceries,1,2024-02-08,56,Male,New York
+1047,692.25,Groceries,2,2024-01-02,35,Other,Chicago
+1048,1088.13,Electronics,1,2024-01-03,57,Male,San Francisco
+1049,1138.75,Groceries,1,2024-02-18,18,Female,Los Angeles
+1050,451.22,Books,2,2024-02-06,28,Female,Los Angeles
